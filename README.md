@@ -7,20 +7,20 @@ Welcome to Face Verse, a vibrant social media platform tailored for the dynamic 
 Follow these steps to set up Face Verse on your local machine:
 
 1. **Clone the Repository:**
-   bash
+   ```bash
    git clone https://github.com/your-username/face-verse.git
-   
+   ```
 
 2. **Navigate to the Project Directory:**
-   bash
+   ```bash
    cd face-verse
-   
+   ```
 
 3. **Install Dependencies:**
    Ensure you have Node.js and npm installed. Run:
-   bash
+   ```bash
    npm install
-   
+   ```
 
 ## Build with Vite and React
 
@@ -28,21 +28,21 @@ Face Verse utilizes Vite as its build tool and React for an engaging user interf
 
 1. **Start Development Server:**
    Launch the development server to preview the project locally:
-   bash
+   ```bash
    npm run dev
-   
+   ```
 
 2. **Build for Production:**
    Generate a production-ready build with the following command:
-   bash
+   ```bash
    npm run build
-   
+   ```
 
 3. **Serve the Production Build:**
    After building, serve the production build locally for a seamless experience:
-   bash
+   ```bash
    npm run serve
-   
+   ```
 
 4. **Explore Face Verse:**
    Open your browser and navigate to `http://localhost:5000` to immerse yourself in the Face Verse social media experience.

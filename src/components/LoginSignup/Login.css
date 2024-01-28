@@ -8,6 +8,8 @@ main{
     justify-content: center;
     flex-direction: column;
     height: 100vh;
+    position: relative;
+    z-index: 2;
 }
 
 .container{
